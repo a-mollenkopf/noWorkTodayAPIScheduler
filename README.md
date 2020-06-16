@@ -23,7 +23,7 @@ Type git push to push to github and open it from there!
 
 This website tested my knowledge of jQuery, AJAX, and the use of local storage. When you type in to-do items in the boxes and hit save, they will be saved even when you refresh. The current date is shown at the top of the page and depending on the time of day, the boxes will be either, green, grey, or red. Red for current time, grey for past time, and green for upcoming.
 
-
+[deployed site] https://a-mollenkopf.github.io/noWorkTodayAPIScheduler/
 
 
 # Credits
