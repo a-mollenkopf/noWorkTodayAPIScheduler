@@ -11,7 +11,6 @@ console.log(workDay)
 $("#currentDay").append(workDay);
 // chnages it to hours not hours and seconds
 hour = parseInt(moment().format("HH"));
-hour = 13;
 console.log(hour)
 
 $("textarea").each(function () {
